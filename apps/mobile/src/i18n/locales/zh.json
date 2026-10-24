@@ -926,7 +926,7 @@
   "setup.field.accuracyThreshold": "精度阈值",
   "setup.field.apiTemplate": "API 模板",
   "setup.field.authType": "身份验证类型",
-  "setup.field.bearerToken": "******",
+  "setup.field.bearerToken": "Bearer 令牌",
   "setup.field.customFields": "自定义字段",
   "setup.field.customHeaders": "自定义标头",
   "setup.field.dawarichMode": "Dawarich 模式",
